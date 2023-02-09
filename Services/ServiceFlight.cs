@@ -36,7 +36,7 @@ namespace AM.ApplicationCore.Services
             return dates;
         }
 
-        // 8) GetFlights
+        // 8)
         public List<Flight>GetFlights(string filterType, string filterValue)
         {
             List<Flight> listFlights = new List<Flight>();
