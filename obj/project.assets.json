@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\Documents\\4SE5\\Seme2\\.NET\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\msi\\Documents\\4SE5\\Seme2\\.NET\\Mes projets\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
       "projectName": "AM.ApplicationCore",
-      "projectPath": "C:\\Users\\msi\\Documents\\4SE5\\Seme2\\.NET\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\msi\\Documents\\4SE5\\Seme2\\.NET\\Mes projets\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\Documents\\4SE5\\Seme2\\.NET\\AirportManagement\\AM.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\msi\\Documents\\4SE5\\Seme2\\.NET\\Mes projets\\AirportManagement\\AM.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
